@@ -1,0 +1,24 @@
+.form_header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.form_header_left{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;    
+}
+
+.form_name{
+    border: none;
+    outline: none;
+    font-family: 'Google sans',Roboto,Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    margin-left: 15px;
+    color: #202124;
+    width: 120px;
+    
+}

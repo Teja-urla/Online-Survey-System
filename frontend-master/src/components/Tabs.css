@@ -1,0 +1,16 @@
+.text1{
+    left: 40%;
+    /* transform: translate(34%, 109%); */
+    color: grey;
+    position: absolute;
+    height: 40%;
+
+    }
+    .text2{
+     left: 850px;
+     height: 40%;
+
+     /* transform: translate(56%, 9%); */
+     color: grey;
+ position: absolute;
+    }
